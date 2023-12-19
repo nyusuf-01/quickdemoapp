@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Custom type of file I want to ignore
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
